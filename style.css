@@ -1,0 +1,42 @@
+body {
+  background-color: #FEE7F0;
+}
+
+h1 {
+  color: #811453;
+  font-family: arial;
+  font-size: 25px;
+  text-shadow: 0px 1px 2px;	
+}
+h2 {
+  color:#DB0073;
+  font-family:arial;
+  font-size: 25px;
+}
+.container {
+  width: 750px;
+  margin: 0 auto;
+}
+.card {
+  text-align: center;
+  padding: 15px;
+  margin: 33px;
+  box-shadow: 0px 6px 20px;
+  border-radius: 10px;
+  line-height: 1,8px;
+  background-color: #FDE9E0;
+}
+#JadeBrisse {
+  width: 250px;
+  border-radius: 125px;
+  border-style: double;
+}
+#musique {
+  width: 13px;
+}
+#photo {
+  width: 20px;
+}
+
+
+
